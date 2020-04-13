@@ -1,0 +1,45 @@
+1 - O que podemos extrair de dados brutos?
+
+a) Apenas atributos
+b) Uma descrição de como aconteceram
+c) Informações e com ela o conhecimento
+d) Nenhuma das anteriores
+
+Solução: Informações e com ela o conhecimento.
+
+2 - O que é um SGDB?
+a) Vários arquivos com informações
+b) Um sistema de Abstração
+c) Um sistema que gerencia banco de dados
+d) Uma biblioteca de dados
+
+solução: Um sistema que gerencia banco de dados.
+
+3 - Quais das alternativas estão corretas com relação a um Banco de Dados Relacional?
+
+a) As entidades são chamadas de tabelas
+b) As colunas também são chamadas de tuplas
+c) As linhas também são chamadas de registros ou tuplas
+d) A e B
+e) A e C
+
+solução: A e C
+
+4 - O que é DML?
+
+a) Data move Library
+b) Direct Manipulation Language
+c) Data Maniputalion Language
+d) Dictionary Markup Libray
+
+solução: Data Maniputalion Language
+
+5 - O que não faz parte do conceito ACID 
+
+a) Durabilidade
+b) Isolamento
+c) Continuidade
+d) Consistência
+e) Atomicidade
+
+solução: Continuidade.
