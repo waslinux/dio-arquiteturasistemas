@@ -19,9 +19,9 @@ Professor: Laureano Marcelo Gilioli
 
 #### Conceitos de responsividade e experiência do usuário
 
-Professor: 
+Professor: Alex Cortes
 
 #### Vantagens e desenvolvimento de Web Services
 
-Professor:
+Professor: Rafael Galleani
 

@@ -1,0 +1,3 @@
+http://soapclient.com/xml/soapresponder.wsdl
+
+https://developer.twitter.com/en/docs/api-reference-index
